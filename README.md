@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Isratjhn
+- 👋 Hi, I’m Israt Jahan from Bangladesh.
+- 🧑‍🎓 BSc in Computer Science and Engineering.
 - 👀 I’m interested in research involving image processing, machine learning, deep learning.
 - 🌱 I’m currently learning python, html, css , JavaScript, machine learning , deep learning.
 - 📫 email : isratj451@gmail.com
